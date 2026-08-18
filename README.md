@@ -216,10 +216,4 @@ certificate-tracker/
 
 This README intentionally avoids organization-specific names, internal URLs, employee records, email addresses, and proprietary data so the project can be safely shared in a public GitHub repository.
 
-## License
 
-Add a license that matches how this project should be shared. Common options include MIT, Apache 2.0, or private/internal use only.
-
-## Project Status
-
-Initial project documentation prepared for public portfolio or GitHub use.
