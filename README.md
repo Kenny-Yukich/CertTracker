@@ -2,11 +2,10 @@
 
 ## Overview
 
-![CertTracker architecture](./certtrackerarchitecture.svg)
-
 Certificate Tracker is an automated equipment certification tracking and notification system built with Microsoft 365 tools. The solution helps organizations monitor employee equipment certificatio[...]
 
 This project is designed to reduce manual tracking, improve compliance visibility, and provide a centralized source of truth for certification records.
+![CertTracker architecture](./certtrackerarchitecture.svg)
 
 ## Problem Statement
 
