@@ -2,13 +2,15 @@
 
 ## Overview
 
-Certificate Tracker is an automated equipment certification tracking and notification system built with Microsoft 365 tools. The solution helps organizations monitor employee equipment certifications, calculate expiration dates, and notify responsible leaders before certifications expire or become overdue.
+![CertTracker architecture](./certtrackerarchitecture.svg)
+
+Certificate Tracker is an automated equipment certification tracking and notification system built with Microsoft 365 tools. The solution helps organizations monitor employee equipment certificatio[...]
 
 This project is designed to reduce manual tracking, improve compliance visibility, and provide a centralized source of truth for certification records.
 
 ## Problem Statement
 
-Organizations often track certifications manually using spreadsheets, email reminders, or disconnected records. Manual tracking can lead to missed expirations, compliance gaps, duplicated work, and limited reporting visibility.
+Organizations often track certifications manually using spreadsheets, email reminders, or disconnected records. Manual tracking can lead to missed expirations, compliance gaps, duplicated work, an[...]
 
 Certificate Tracker solves this by combining structured certification records with automated daily checks and notification workflows.
 
@@ -214,6 +216,4 @@ certificate-tracker/
 
 ## Notes
 
-This README intentionally avoids organization-specific names, internal URLs, employee records, email addresses, and proprietary data so the project can be safely shared in a public GitHub repository.
-
-
+This README intentionally avoids organization-specific names, internal URLs, employee records, email addresses, and proprietary data so the project can be safely shared in a public GitHub reposit[...]
